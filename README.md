@@ -10,3 +10,6 @@
 2016313857 손희관
 
 팀 소개 : 열심히 하겠습니다. A+ 주세요!
+
+선정한 프로젝트 : https://www.openhub.net/p/cataclysm-dda
+작업을 진행할 Github : https://github.com/17-1-SKKU-OSS/Cataclysm-DDA
