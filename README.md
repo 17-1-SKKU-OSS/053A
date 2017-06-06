@@ -10,7 +10,7 @@
 * 2016313857 손희관    
 
 
-## 선정한 프로젝트  
-https://www.openhub.net/p/cataclysm-dda    
-## 작업을 진행할 Github  
-https://github.com/17-1-SKKU-OSS/Cataclysm-DDA
+## <선정한 프로젝트>  
+* Cataclysm-DDa : https://www.openhub.net/p/cataclysm-dda   
+## <작업을 진행할 Github>  
+* https://github.com/17-1-SKKU-OSS/Cataclysm-DDA
