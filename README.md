@@ -13,3 +13,7 @@
 
 ## 작업을 진행할 Github  
 * https://github.com/17-1-SKKU-OSS/Cataclysm-DDA
+
+## Team Wiki
+* https://github.com/17-1-SKKU-OSS/053A/wiki
+* 자세한 사항은 위키를 참조해주세요! :)
